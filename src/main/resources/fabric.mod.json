@@ -1,0 +1,11 @@
+
+{
+  "schemaVersion": 1,
+  "id": "fpsmod",
+  "version": "1.0.0",
+  "name": "FPS Mod",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.mod.FPSMod"]
+  }
+}
